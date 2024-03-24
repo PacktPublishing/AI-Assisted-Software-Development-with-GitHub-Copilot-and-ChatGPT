@@ -1,0 +1,19 @@
+tags: 
+  - products 
+parameters: 
+  - in: path 
+    name: product_id 
+    required: true 
+    type: integer 
+responses: 
+  200: 
+    description: A single product 
+    schema: 
+      type: object 
+      properties: 
+        id: 
+          type: integer 
+        name: 
+          type: string 
+        price: 
+          type: number 
