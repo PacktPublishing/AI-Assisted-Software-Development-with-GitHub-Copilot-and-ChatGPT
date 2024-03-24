@@ -1,0 +1,16 @@
+tags: 
+  - cart 
+parameters: 
+  - in: body 
+    name: body 
+    required: true 
+    schema: 
+      type: object 
+      properties: 
+        productId: 
+          type: integer 
+        quantity: 
+          type: integer 
+responses: 
+  200: 
+    description: Cart updated 
