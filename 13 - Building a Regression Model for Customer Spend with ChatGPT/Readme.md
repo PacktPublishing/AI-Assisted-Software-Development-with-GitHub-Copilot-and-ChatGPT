@@ -9,7 +9,7 @@ This refers to the physical address of the customer. It's crucial for delivering
 # # Avatar: 
 This could be a digital representation or image chosen by the user. It might not directly impact sales or customer behaviour, but it can be a part of customer engagement strategies, adding a personal touch to user profiles. 
 
-# # Average Session Length: 
+# # Avg.Session Length: 
 The average duration of all session combined, in minutes. This is like measuring how long a customer spends in your store each time they visit. Imagine someone walking around, looking at products for, say, 33 minutes on average. 
 
 # # Time on App: 
