@@ -1,9 +1,11 @@
 # AI-Assisted Programming for Web and Machine Learning, First Edition
+![cover](https://github.com/user-attachments/assets/024bf642-7d72-4070-9a84-bc4b334499ad)
+
 This is the code repository for [AI-Assisted Programming for Web and Machine Learning, First Edition](https://www.packtpub.com/en-us/product/ai-assisted-programming-for-web-and-machine-learning-9781835086056), published by Packt.
 
 **Improve your development workflow with ChatGPT and GitHub Copilot**
 
-The authors of this book are -[Christoffer Noring](https://www.linkedin.com/in/christoffer-noring-3257061/), [Anjali Jain](https://www.linkedin.com/in/anjali-jain-42942014/), [Marina Fernandez](https://www.linkedin.com/in/marina-fernandez-a7008612/), Ayşe Mutlu, [Ajit Jaokar](https://www.linkedin.com/in/ajitjaokar/)
+The authors of this book are -[Christoffer Noring](https://www.linkedin.com/in/christoffer-noring-3257061/), [Anjali Jain](https://www.linkedin.com/in/anjali-jain-42942014/), [Marina Fernandez](https://www.linkedin.com/in/marina-fernandez-a7008612/), [Ayşe Mutlu](https://www.linkedin.com/in/ayse-mutlu/), [Ajit Jaokar](https://www.linkedin.com/in/ajitjaokar/)
 
 ## About the book
 
